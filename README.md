@@ -80,36 +80,11 @@ Streamlit Deployment
 
 ## 📊 Dataset
 
-The dataset contains SMS messages labeled into two categories:
-
-| Category | Description |
-|----------|-------------|
-| Ham | Normal/legitimate SMS |
-| Spam | Unwanted or promotional SMS |
-
 The dataset contains two main columns:
 
 - `Category`
 - `Message`
 
-Duplicate messages were removed during data preprocessing.
-
----
-
-## 🔍 Exploratory Data Analysis
-
-The following aspects were explored:
-
-- Distribution of Spam and Ham messages
-- Dataset class balance
-- Character count of messages
-- Word count of messages
-- Spam vs Ham message length
-- Common words in Spam messages
-- Common words in Ham messages
-- Keywords associated with Spam
-- Duplicate messages
-- Text characteristics distinguishing Spam and Ham
 
 ---
 
@@ -141,16 +116,6 @@ Stemming
    ↓
 Clean Text
 ```
-
----
-
-## 🔢 Feature Engineering
-
-### TF-IDF Vectorization
-
-The cleaned SMS messages were converted into numerical feature vectors using **TF-IDF (Term Frequency-Inverse Document Frequency)**.
-
-The TF-IDF vectorizer was fitted on the training data and then used to transform the test data.
 
 ---
 
@@ -240,11 +205,8 @@ Spam / Ham Result
 
 ### 🚨 Spam Prediction
 
-![Spam Prediction](screenshots/spam_output.png)
 
 ### ✅ Ham Prediction
-
-![Ham Prediction](screenshots/ham_output.png)
 
 ---
 
@@ -305,24 +267,6 @@ scikit-learn
 nltk
 joblib
 ```
-
----
-
-## 🎯 Key Skills Demonstrated
-
-- Exploratory Data Analysis
-- Data Cleaning
-- Feature Engineering
-- Natural Language Processing
-- Text Preprocessing
-- Stopword Removal
-- Stemming
-- TF-IDF Vectorization
-- Machine Learning Classification
-- Model Comparison
-- Model Evaluation
-- Streamlit Development
-- Model Deployment
 
 ---
 
