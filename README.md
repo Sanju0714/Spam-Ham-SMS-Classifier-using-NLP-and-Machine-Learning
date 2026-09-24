@@ -15,7 +15,7 @@ This project uses Natural Language Processing and Machine Learning to classify S
 
 ## 🔄 Project Workflow
 
-```text
+
 SMS Dataset
      ↓
 Data Cleaning & EDA
@@ -35,7 +35,9 @@ Model Evaluation
 Linear SVM
      ↓
 Streamlit Deployment
-text ```
+
+--
+
 ## 🛠️ Technologies Used
 Python
 Pandas
