@@ -296,7 +296,3 @@ Interested in **Data Science, Machine Learning, NLP, and Generative AI**.
 🚀 **Live Application:**
 
 [Spam & Ham SMS Classifier](https://spam-ham-sms-classifier-using-nlp-and-machine-learning-dcljt6t.streamlit.app/)
-
-💻 **GitHub Repository:**
-
-https://github.com/YOUR-USERNAME/spam-ham-sms-classifier-using-nlp-and-machine-learning
