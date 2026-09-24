@@ -204,9 +204,10 @@ Spam / Ham Result
 ## 🖥️ Application Output
 
 ### 🚨 Spam Prediction
-
+<img width="2560" height="1110" alt="spam" src="https://github.com/user-attachments/assets/4b3b5ba3-a37a-4b54-a330-22d57462a7fa" />
 
 ### ✅ Ham Prediction
+<img width="2560" height="1104" alt="ham" src="https://github.com/user-attachments/assets/aa035f01-711c-467c-82cc-65a558c860f4" />
 
 ---
 
