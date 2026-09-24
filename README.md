@@ -35,7 +35,8 @@ Model Evaluation
 Linear SVM
      ↓
 Streamlit Deployment
-🛠️ Technologies Used
+
+## 🛠️ Technologies Used
 Python
 Pandas
 NumPy
@@ -47,11 +48,13 @@ TF-IDF
 Linear SVM
 Streamlit
 Joblib
-🤖 Machine Learning Models
+
+## 🤖 Machine Learning Models
 Naive Bayes
 Logistic Regression
 Linear SVM
-📊 Model Performance
+
+## 📊 Model Performance
 Model	Accuracy	Precision	Recall	F1 Score
 Linear SVM	97.48%	94.74%	84.38%	89.26%
 Naive Bayes	96.22%	100.00%	69.53%	82.03%
@@ -73,7 +76,8 @@ TF-IDF
 Linear SVM
    ↓
 Spam / Ham
-🖥️ Streamlit Application
+
+## 🖥️ Streamlit Application
 
 The trained model is deployed using Streamlit. Users can enter an SMS message and receive a Spam or Ham prediction.
 
@@ -92,10 +96,12 @@ spam-ham-sms-classifier-using-nlp-and-machine-learning/
 └── screenshots/
     ├── spam_output.png
     └── ham_output.png
-▶️ Run Locally
+
+## ▶️ Run Locally
 pip install -r requirements.txt
 streamlit run app.py
-🎯 Key Skills
+
+## 🎯 Key Skills
 Exploratory Data Analysis
 Natural Language Processing
 Text Preprocessing
@@ -103,11 +109,13 @@ TF-IDF Vectorization
 Machine Learning
 Model Evaluation
 Streamlit Deployment
-🚀 Future Improvements
+
+## 🚀 Future Improvements
 Experiment with word embeddings
 Explore deep learning-based NLP models
 Add more SMS data
 Improve the Streamlit interface
+
 👩‍💻 Author
 
 Gorli Sanjana
