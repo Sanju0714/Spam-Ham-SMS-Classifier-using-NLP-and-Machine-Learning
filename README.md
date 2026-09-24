@@ -35,7 +35,7 @@ Model Evaluation
 Linear SVM
      ↓
 Streamlit Deployment
-
+text ```
 ## 🛠️ Technologies Used
 Python
 Pandas
